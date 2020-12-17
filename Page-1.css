@@ -1,14 +1,3 @@
-.scroll-hide ul {
-  max-height: 1080px;
-  max-width: 1920px;
-  border: 2px solid #f3f3f3;
-  padding-left: 16px;
-  overflow: auto;
-  /* this will hide the scrollbar in mozilla based browsers */
-  overflow: -moz-scrollbars-none;
-  /* this will hide the scrollbar in internet explorers */
-  -ms-overflow-style: none;
-}
 .u-section-1-1 .u-sheet-1 {
   min-height: 1080px;
 }
