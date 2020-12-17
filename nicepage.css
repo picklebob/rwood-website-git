@@ -1,5 +1,5 @@
-body {
-  overflow: hidden; /* Hide scrollbars */
+.scroll-hide ul {
+  overflow: -moz-scrollbars-none;
 }
 /*!
  * froala_editor v3.2.3 (https://www.froala.com/wysiwyg-editor)

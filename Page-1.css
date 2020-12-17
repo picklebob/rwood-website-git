@@ -1,5 +1,5 @@
-body {
-  overflow: hidden; /* Hide scrollbars */
+.scroll-hide ul {
+  overflow: -moz-scrollbars-none;
 }
 .u-section-1-1 .u-sheet-1 {
   min-height: 1080px;
