@@ -1,3 +1,6 @@
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
 /*!
  * froala_editor v3.2.3 (https://www.froala.com/wysiwyg-editor)
  * License https://froala.com/wysiwyg-editor/terms/
