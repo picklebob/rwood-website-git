@@ -5,7 +5,7 @@
 .u-section-1-1 .u-text-1 {
   font-weight: 700;
   animation-duration: 1000ms;
-  margin: 68px 0 60px;
+  margin: 68px 0 0;
 }
 
 @media (max-width: 991px) {
@@ -17,7 +17,7 @@
 }
 
 .u-section-1-2 .u-sheet-1 {
-  min-height: 1075px;
+  min-height: 1080px;
 }
 
 .u-section-1-2 .u-text-1 {
@@ -179,7 +179,7 @@
   }
 
   .u-section-1-2 .u-sheet-1 {
-    min-height: 849px;
+    min-height: 854px;
   }
 
   .u-section-1-2 .u-text-1 {
@@ -234,7 +234,7 @@
   }
 
   .u-section-1-2 .u-sheet-1 {
-    min-height: 737px;
+    min-height: 742px;
   }
 
   .u-section-1-2 .u-text-1 {
