@@ -16,7 +16,7 @@
 }
 
 .u-section-1-2 .u-sheet-1 {
-  min-height: 1137px;
+  min-height: 1080px;
 }
 
 .u-section-1-2 .u-text-1 {
@@ -74,7 +74,7 @@
   height: 528px;
   object-position: 50% 0%;
   animation-duration: 1000ms;
-  margin: -798px auto 52px -36px;
+  margin: -798px auto 0 -36px;
 }
 
 @media (max-width: 1199px) {
