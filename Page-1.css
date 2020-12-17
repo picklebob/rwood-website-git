@@ -646,6 +646,21 @@
   .u-section-1-3 .u-image-4 {
     margin-top: 79px;
   }
+}.u-section-1-4 .u-sheet-1 {
+  min-height: 1080px;
+}
+
+.u-section-1-4 .u-custom-html-1 {
+  min-height: 1080px;
+  height: auto;
+  margin: 0 285px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-4 .u-custom-html-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
 }.u-block-e12d-2 {
   position: absolute;
   bottom: 10px;
@@ -659,4 +674,18 @@
 .u-block-e12d-4 {
   position: absolute;
   right: 0;
+}@-moz-document url-prefix() { /* Disable scrollbar Firefox */
+html{
+  scrollbar-width: none;
+}
+}
+body {
+  margin: 0; /* remove default margin */
+  scrollbar-width: none; /* Also needed to disable scrollbar Firefox */
+  -ms-overflow-style: none;  /* Disable scrollbar IE 10+ */
+  overflow-y: scroll;
+}
+  body::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* Disable scrollbar Chrome/Safari/Webkit */
 }
